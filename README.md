@@ -1,5 +1,5 @@
 # Tercera-entrega-Axolotitos
-Repositorio con los archivos del proyecto para la materia 
+Repositorio con las stories priorizadas
 ## Integrantes del equipo
 - Montserrat Olivares Ruiz 179905
 - Ilse Córdova Sánchez 181901
